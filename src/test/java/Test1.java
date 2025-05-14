@@ -1,7 +1,4 @@
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestInstance;
+import org.junit.jupiter.api.*;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -26,6 +23,7 @@ public class Test1 {
     }
 
     @Test
+    @DisplayName("Web form for learners")
     public void webForm() throws InterruptedException {
         driver.get("https://www.digitalunite.com/practice-webform-learners");
         List <WebElement> input = driver.findElements(By.className("form-control"));
