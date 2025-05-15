@@ -16,6 +16,8 @@ In this project, I automated 3 websites using Selenium, JUnit, and Java.
 - Submit the form.
 - Validate the presence of a success message ("Thank you for your submission!").
 
+![01](https://github.com/user-attachments/assets/bb3e18fb-fba2-4104-a088-ecd9786cd2ed)
+
 **2. Guest Registration Automation – WP Everest** (Automate the guest registration process on a WP Everest form)
 
 **Steps:**
@@ -29,16 +31,19 @@ In this project, I automated 3 websites using Selenium, JUnit, and Java.
 - Submit the form.
 - Check for a success confirmation ("User successfully registered.").
 
+![02](https://github.com/user-attachments/assets/26689c27-1886-44d7-8abd-8a4163721c6a)
 
 **3. DSEBD Stock Price Scraping** (Scrape and store stock market data from DSEBD)
 
-Steps:
+**Steps:**
+- Visit the DSEBD website's stock market page [DSEBD](https://dsebd.org/latest_share_price_scroll_by_value.php)
+- Locate the stock data table.
+- Extract all cell values (Serial, Trade Code, Price, Volume and others).
+- Print data to the console.
+- Save the data to a **data.txt** file for future use.
 
-Visit the DSEBD website's stock market page.
-Locate the stock data table.
-Extract all cell values (ticker, price, volume, etc.).
-Print data to the console.
+![03](https://github.com/user-attachments/assets/69f4fb08-a3af-433f-a567-097b0fd014d2)
 
-Save the data to a .txt file for future use.
+![04](https://github.com/user-attachments/assets/1dc36965-08f6-4db6-8202-931b4b0cbcd3)
 
-## What I have done
+## 
