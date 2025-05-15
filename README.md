@@ -46,8 +46,8 @@ In this project, I automated 3 websites using Selenium, JUnit, and Java.
 
 ![04](https://github.com/user-attachments/assets/1dc36965-08f6-4db6-8202-931b4b0cbcd3)
 
-## How to Run the Tests
+## How to Run the Tests 
 **Setup and Configuration**
-Install JDK and set up your IDE (Eclipse/IntelliJ IDEA).
-Add Selenium and JUnit libraries to your project build path.
-Ensure the browser driver (e.g., ChromeDriver) is installed and set in your PATH.
+- Install JDK and set up your IDE (Eclipse/IntelliJ IDEA).
+- Add Selenium and JUnit libraries to your project build path.
+- Ensure the browser driver (e.g., ChromeDriver) is installed and set in your PATH.
